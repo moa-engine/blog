@@ -11,4 +11,4 @@ max_posts = 4
 social_media_card = "social_cards/index.jpg"
 +++
 
-tabi is a fast, lightweight, and modern [Zola](https://www.getzola.org) theme. It aims to be a personal page and home to blog posts. It features a perfect Lighthouse score, responsive design, dark and light themes, custom shortcodes, and much more.
+MOA is a free and open-source meta-search engine. This application is designed with the aim of simplicity and usability for the general public, providing good and usable results while ensuring privacy, transparency, and freedom on the internet.
