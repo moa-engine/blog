@@ -220,11 +220,9 @@ encode_plaintext_email = true  # Setting is ignored if email is already encoded.
 
 # The icons available can be found in "social_icons" in the "static" folder.
 socials = [
-    { name = "github", url = "https://github.com/welpo/", icon = "github" },
-    { name = "soundcloud", url = "https://soundcloud.com/oskerwyld", icon = "soundcloud" },
-    { name = "instagram", url = "https://instagram.com/oskerwyld", icon = "instagram" },
-    { name = "youtube", url = "https://youtube.com/@oskerwyld", icon = "youtube" },
-    { name = "spotify", url = "https://open.spotify.com/artist/5Hv2bYBhMp1lUHFri06xkE", icon = "spotify" },
+    { name = "github", url = "https://github.com/moa-engine/", icon = "github" },
+    { name = "mastodon", url = "https://mastodon.world/@moa_engine", icon = "mastodon" },
+ 
 ]
 
 # Extra menu to show on the footer, below socials section.
