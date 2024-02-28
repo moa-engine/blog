@@ -6,8 +6,8 @@
 # See documentation for more information on available options.
 
 [remote.github]
-owner = "welpo"
-repo = "tabi"
+owner = "moa-engine"
+repo = "blog"
 
 [changelog]
 # changelog header
