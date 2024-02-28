@@ -1,7 +1,7 @@
-base_url = "https://welpo.github.io/tabi"
-title = "~/tabi"
-description = "tabi is a fast, lightweight, and modern Zola theme with multi-language support, optional JavaScript, and a perfect Lighthouse score."
-author = "welpo"
+base_url = "https://moa-engine.github.io/blog"
+title = "MOA Blog"
+description = "MOA is free meta search engine respect your privacy by MOA Project."
+author = "MOA Project"
 generate_feed = true
 compile_sass = true
 minify_html = true
