@@ -5,7 +5,7 @@ sort_by = "date"
 template = "section.html"
 
 [extra]
-header = {title = "It's MOA Blog", img = "img/main.webp", img_alt = "Óscar Fernández, the theme's author" }
+header = {title = "It's MOA Blog", img = "img/main.webp", img_alt = "By MOA Project" }
 section_path = "blog/_index.md"
 max_posts = 4
 social_media_card = "social_cards/index.jpg"
