@@ -228,7 +228,7 @@ socials = [
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
 #   {url = "about", name = "about", trailing_slash = true},
-#   {url = "privacy", name = "privacy", trailing_slash = true},
+   {url = "https://moa-engine.github.io", name = "MOA", trailing_slash = true},
     {url = "https://moae.sbs", name = "moae.sbs", trailing_slash = true},
     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
 ]
