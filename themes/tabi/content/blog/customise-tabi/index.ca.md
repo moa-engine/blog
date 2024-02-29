@@ -168,11 +168,11 @@ Crea un nou arxiu `.scss` (per exemple, `la_teva_skin.scss`) a la ubicació que 
 
 ```scss
 :root {
-    --primary-color: #087e96;
+    --primary-color: #503899;
 }
 
 [data-theme='dark'] {
-    --primary-color: #91e0ee;
+    --primary-color: #865dff;
 }
 ```
 

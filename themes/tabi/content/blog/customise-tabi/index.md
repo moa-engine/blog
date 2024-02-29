@@ -179,11 +179,11 @@ Create a new `.scss` file (for example, `your_skin.scss`) in your preferred loca
 
 ```scss
 :root {
-    --primary-color: #087e96;
+    --primary-color: #503899;
 }
 
 [data-theme='dark'] {
-    --primary-color: #91e0ee;
+    --primary-color: #865dff;
 }
 ```
 

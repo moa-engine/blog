@@ -170,11 +170,11 @@ Crea un nuevo archivo `.scss` (por ejemplo, `tu_skin.scss`) en la ubicación que
 
 ```scss
 :root {
-    --primary-color: #087e96;
+    --primary-color: #503899;
 }
 
 [data-theme='dark'] {
-    --primary-color: #91e0ee;
+    --primary-color: #865dff;
 }
 ```
 
