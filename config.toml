@@ -94,7 +94,7 @@ skin = ""
 # Set browser theme colour. Can be a single colour or [light, dark].
 # Note: Bright colors may be ignored in dark mode.
 # More details: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/theme-color
-browser_theme_color = "#087e96"
+browser_theme_color = "#503899"
 # browser_theme_color = ["#ffffff", "#000000"]  # Example of light/dark colours.
 
 # List additional stylesheets to load site-wide.
@@ -112,7 +112,7 @@ stylesheets = []
 # Remote repository for your Zola site.
 # Used for `show_remote_changes` and `show_remote_source` (see below).
 # Supports GitHub, GitLab, Gitea, and Codeberg.
-remote_repository_url = "https://github.com/welpo/tabi"
+remote_repository_url = "https://github.com/moa-engine/blog"
 # Set this to "auto" to try and auto-detect the platform based on the repository URL.
 # Accepted values are "github", "gitlab", "gitea", and "codeberg".
 remote_repository_git_platform = "auto"  # Defaults to "auto".
@@ -188,7 +188,7 @@ favicon = "img/seedling.png"
 
 # Add an emoji here to use it as favicon.
 # Compatibility: https://caniuse.com/link-icon-svg
-favicon_emoji = "Ⓜ️"
+#favicon_emoji = "Ⓜ️"
 
 # Path to the fallback image for social media cards (the preview image shown when sharing a link on WhatsApp, LinkedIn…).
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
@@ -227,9 +227,9 @@ socials = [
 
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
-    {url = "about", name = "about", trailing_slash = true},
-    {url = "privacy", name = "privacy", trailing_slash = true},
-    {url = "https://tabi-stats.osc.garden", name = "site_statistics", trailing_slash = true},
+#   {url = "about", name = "about", trailing_slash = true},
+#   {url = "privacy", name = "privacy", trailing_slash = true},
+    {url = "https://moae.sbs", name = "moae.sbs", trailing_slash = true},
     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
 ]
 
