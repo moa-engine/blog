@@ -45,23 +45,23 @@ skip_prefixes = [
 skip_anchor_prefixes = [
     "https://github.com/",
 ]
-
-[languages.es]
-title = "~/tabi"
-description = "tabi es un tema de Zola rápido, liviano y moderno con JavaScript opcional y una puntuación perfecta en Lighthouse."
-generate_feed = true
-compile_sass = true
-minify_html = true
-taxonomies = [{name = "tags", feed = true}]
-build_search_index = true
-
-[languages.ca]
-title = "~/tabi"
-description = "tabi és un tema de Zola ràpid, lleuger i modern amb JavaScript opcional i una puntuació perfecta a Lighthouse."
-generate_feed = true
-compile_sass = true
-minify_html = true
-taxonomies = [{name = "tags", feed = true}]
+#
+# [languages.es]
+# title = "~/tabi"
+# description = "tabi es un tema de Zola rápido, liviano y moderno con JavaScript opcional y una puntuación perfecta en Lighthouse."
+# generate_feed = true
+# compile_sass = true
+# minify_html = true
+# taxonomies = [{name = "tags", feed = true}]
+# build_search_index = true
+#
+# [languages.ca]
+# title = "~/tabi"
+# description = "tabi és un tema de Zola ràpid, lleuger i modern amb JavaScript opcional i una puntuació perfecta a Lighthouse."
+# generate_feed = true
+# compile_sass = true
+# minify_html = true
+# taxonomies = [{name = "tags", feed = true}]
 
 [extra]
 # Check out the documentation (or the comments below) to learn how to customise tabi:
@@ -228,7 +228,7 @@ socials = [
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
 #   {url = "about", name = "about", trailing_slash = true},
-#   {url = "privacy", name = "privacy", trailing_slash = true},
+#   {url = "https://moa-engine.github.io", name = "MOA", trailing_slash = true},
     {url = "https://moae.sbs", name = "moae.sbs", trailing_slash = true},
     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
 ]
