@@ -1,7 +1,7 @@
 base_url = "https://moa-engine.github.io/blog"
-title = "MOA Blog"
-description = "MOA is free meta search engine respect your privacy by MOA Project."
-author = "MOA Project"
+title = "موآ"
+description = "موآ یک فراجستجوگر آزاد و نامتمرکز است که برای حفظ حریم‌خصوصی شما ایجاد شده است!"
+author = "پروژه موآ"
 generate_feed = true
 compile_sass = true
 minify_html = true

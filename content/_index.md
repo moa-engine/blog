@@ -1,14 +1,14 @@
 +++
 path = "/"
-title = "Latest posts"
+title = "آخرین نوشته‌ها"
 sort_by = "date"
 template = "section.html"
 
 [extra]
-header = {title = "It's MOA Blog", img = "img/main.webp", img_alt = "By MOA Project" }
+header = {title = "اینجا وبلاگ موآ است", img = "img/main.webp", img_alt = "از پروژه موآ" }
 section_path = "blog/_index.md"
 max_posts = 4
 social_media_card = "social_cards/index.jpg"
 +++
 
-MOA is a free and open-source meta-search engine. This application is designed with the aim of simplicity and usability for the general public, providing good and usable results while ensuring privacy, transparency, and freedom on the internet.
+موآ یک فراجستجوگر آزاد و نامتمرکز است. موآ هدف سادگی و قابلیت استفاده برای عموم مردم، ارائه نتایج خوب و قابل استفاده و در عین حال اطمینان از حریم خصوصی، شفافیت و آزادی در اینترنت طراحی شده است.
