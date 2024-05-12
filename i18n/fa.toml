@@ -5,7 +5,7 @@ full_stop = "."  # Used at the end of a sentence.
 # Menu items.
 # Should match the names in config.extra.menu and config.extra.footer_menu.
 blog = "وبلاگ"
-archive = "آرشیو"
+archive = "بایگانی"
 tags = "برچسب‌ها"
 projects = "پروژه‌ها"
 about = "درباره"
