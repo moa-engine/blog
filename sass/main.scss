@@ -45,6 +45,17 @@
     font-display: swap;
 }
 
+
+
+@font-face {
+  font-family: 'Vazirmatn';
+  src: url('fonts/Vazirmatn[wght].woff2') format('woff2 supports variations'),
+       url('fonts/Vazirmatn[wght].woff2') format('woff2-variations');
+  // font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
 
     --max-layout-width: 1000px;
@@ -53,8 +64,8 @@
     --small-layout-width: 200px;
     --paragraph-spacing: max(2.3vmin, 24px);
 
-    --sans-serif-font: 'Inter', Helvetica, Arial, sans-serif;
-    --serif-font: 'Source Serif', 'Georgia', serif;
+    --sans-serif-font: 'Vazirmatn', Helvetica, Arial, sans-serif;
+    --serif-font: 'Vazirmatn','Georgia', serif;
     --code-font: 'Cascadia Code';
 
     --background-color: white;
