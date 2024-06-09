@@ -31,15 +31,16 @@ tags: ["MOA"]
 
 ### مشارکت در توسعه
 به غیر از برنامه کلی حل اشکالات، لیستی از موتورهای جدید برای نوشتن وجود دارد که باید تا نسخه پایدار آماده شود:
-- آرشیو ایران صدا
-- اوپن لایبرری
-- تقویم گوگل
-- موتور آب و هوا (open-meteo.com)
-- اسپاتیفای
-- جستجوی کتاب (search.worldcat.org)
-- آب و هوای ساده (https://github.com/robertoduessmann/weather-api)
-- موتور جستجوی کلمه‌یاب (https://www.datamuse.com/api/)
-- جستجوی آهنگ (https://cyberboysumanjay.github.io/JioSaavnAPI/)
+    - آرشیو ایران صدا
+    - اوپن لایبرری
+    - موتور آب و هوا open-meteo.com
+    - اسپاتیفای
+    - جستجو کتاب search.worldcat.org
+    - آب و هوا ساده https://github.com/robertoduessmann/weather-api
+    - موتور جسنجو کلمه یاب https://www.datamuse.com/api/
+    - جستجو اهنگ https://cyberboysumanjay.github.io/JioSaavnAPI/
+    - ‏ecosia
+    - گوگل لنز
 
 برای نوشتن چنین موتورهایی نیاز به دانش برنامه‌نویسی پایتون (حتی تازه‌کار) است. اگر نیاز به راهنمایی در این باره دارید به من در تلگرام @moa_engine یا در ماستودون @jf@ieji.de پیام دهید.
 
